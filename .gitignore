@@ -75,6 +75,7 @@ share/python-wheels/
 *.egg
 
 # Zig
+.zig-cache/
 zig-cache/
 zig-out/
 release/
